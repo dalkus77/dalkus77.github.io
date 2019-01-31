@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "달쿠"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "언제까지나 개발자이고 싶은.. 하지만 안될꺼야.."
+  location         : "천상"
   email            : "dalkus77@gmail.com"
   links:
     - label: "Email"
